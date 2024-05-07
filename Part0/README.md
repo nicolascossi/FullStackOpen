@@ -1,0 +1,1 @@
+These are my solutions to the exercises in part 0 of the fullstack open program.
